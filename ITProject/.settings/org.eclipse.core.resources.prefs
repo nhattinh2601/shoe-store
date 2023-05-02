@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/testPackage/testUser.java=UTF-8
+encoding//src/main/java/vn/iotstar/controller/admin/ProductController.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/CategoryDaoImpl.java=UTF-8
+encoding//src/main/java/vn/iotstar/dao/impl/ProductDaoImpl.java=UTF-8
+encoding//src/main/webapp/common/web/header.jsp=UTF-8
+encoding//src/main/webapp/views/admin/analytics/aweek.jsp=UTF-8
+encoding//src/main/webapp/views/admin/analytics/ayear.jsp=UTF-8
+encoding//src/main/webapp/views/web/test.jsp=UTF-8
+encoding//src/main/webapp/views/web/thanhtoan.jsp=UTF-8
